@@ -1,0 +1,18 @@
+{% extends "base_books.html" %}
+
+{% block content %}
+<h3>form class</h3>
+<form action="/polls/your-name/" method="post">  
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="OK" />
+</form>
+
+<h3>view class</h3>
+<form action="/polls/your-name/" method="POST">
+{% csrf_token %}
+<label for="your_name">Your name: </label>
+<input id='your_name' type="text" name='your_name' value="{{ current_name }}">
+<input type="submit" value="OK">
+</form>
+{% endblock content %}

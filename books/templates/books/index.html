@@ -1,0 +1,18 @@
+{% extends 'base_books.html' %}
+
+{% block top %}
+    <h1>Books Management System</h1>
+    <p class="lead">A Book List</p>
+{% endblock top %}
+
+{% block content %}
+<h2>About this page</h2>
+<p class="lead">if is there any book you want to recommand you can add freely</p>
+<ul>
+    {% for modelname in model_list %}
+        {% with "books:"|add:modelname|lower|add:"_list" as urlvar %}
+            <li><a href="{% url urlvar %}">{{ modelname }}</a></li>
+        {% endwith %}
+    {% endfor %}
+</ul>
+{% endblock content %}

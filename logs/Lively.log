@@ -1,0 +1,238 @@
+[19/Mar/2019 15:26:29] INFO [polls.views:29] vote().question_id: 1
+[19/Mar/2019 15:26:31] INFO [polls.views:29] vote().question_id: 1
+[19/Mar/2019 15:30:50] INFO [polls.views:29] vote().question_id: 4
+[19/Mar/2019 15:30:58] INFO [polls.views:29] vote().question_id: 3
+[19/Mar/2019 15:31:58] INFO [polls.views:29] vote().question_id: 3
+[19/Mar/2019 15:32:01] INFO [polls.views:29] vote().question_id: 3
+[19/Mar/2019 15:32:04] INFO [polls.views:29] vote().question_id: 3
+[19/Mar/2019 15:54:25] INFO [books.views:10] Book index ¡¯¿‘
+[19/Mar/2019 15:54:39] INFO [polls.views:29] vote().question_id: 2
+[19/Mar/2019 15:55:17] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 15:55:43] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 15:55:43] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:16:38] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:16:38] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:20:43] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:20:43] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:20:58] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:20:58] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:27:13] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:27:13] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:28:02] INFO [polls.views:29] vote().question_id: 4
+[19/Mar/2019 16:45:16] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:45:16] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:46:23] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:46:23] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:46:28] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:46:28] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:50:04] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:50:04] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 16:52:33] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 16:52:33] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:02:46] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:02:46] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:04:53] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:04:53] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:07:20] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:07:20] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:09:12] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:09:12] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:10:32] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:10:32] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:10:56] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:10:56] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:11:15] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:11:15] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:15:05] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:15:05] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:24:57] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:24:57] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:28:51] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:28:51] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:29:07] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:29:07] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:30:05] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:30:05] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:36:08] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:36:08] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:36:36] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:36:36] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:36:51] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:36:51] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:37:16] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:37:16] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:38:15] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:38:15] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:40:48] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:40:48] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:41:23] INFO [polls.views:29] vote().question_id: 1
+[19/Mar/2019 17:41:24] INFO [polls.views:29] vote().question_id: 1
+[19/Mar/2019 17:43:08] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:43:08] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:46:20] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:46:20] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 17:50:46] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 17:50:46] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 18:06:05] INFO [polls.views:29] vote().question_id: 1
+[19/Mar/2019 18:31:46] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 18:31:46] INFO [books.views:23] AUTHOR LIST
+[19/Mar/2019 18:36:39] INFO [books.views:10] ENTER TO Book index
+[19/Mar/2019 18:36:39] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:30:48] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:30:48] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:33:56] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:33:56] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:34:03] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:34:03] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:40:36] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:40:36] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:40:54] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:40:54] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:41:10] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:41:10] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:46:41] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:46:41] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:47:31] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:47:31] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:47:45] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:47:45] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:48:02] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:48:02] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:48:12] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:48:12] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:49:36] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:49:36] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:51:14] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:51:14] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:51:39] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:51:39] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:52:26] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:52:26] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 12:52:43] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 12:52:43] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 15:13:58] INFO [polls.views:29] vote().question_id: 2
+[22/Mar/2019 17:09:16] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 17:09:16] INFO [books.views:23] AUTHOR LIST
+[22/Mar/2019 17:16:03] INFO [books.views:10] ENTER TO Book index
+[22/Mar/2019 17:16:03] INFO [books.views:23] AUTHOR LIST
+[23/Mar/2019 12:27:18] INFO [books.views:10] ENTER TO Book index
+[23/Mar/2019 12:27:18] INFO [books.views:23] AUTHOR LIST
+[23/Mar/2019 12:29:58] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 12:29:58] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 12:32:34] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 12:32:34] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 12:32:56] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 12:32:56] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 12:33:23] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 12:33:23] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 15:05:02] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 15:05:02] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 15:05:33] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 15:05:33] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 15:06:07] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 15:06:07] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 15:06:29] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 15:06:29] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 15:07:16] INFO [books.views:14] ENTER TO Book index
+[23/Mar/2019 15:07:16] INFO [books.views:27] AUTHOR LIST
+[23/Mar/2019 17:15:07] INFO [polls.views:29] vote().question_id: 4
+[23/Mar/2019 17:15:18] INFO [polls.views:29] vote().question_id: 2
+[23/Mar/2019 17:40:16] INFO [polls.views:29] vote().question_id: 4
+[23/Mar/2019 17:41:15] INFO [polls.views:29] vote().question_id: 2
+[23/Mar/2019 17:41:21] INFO [polls.views:29] vote().question_id: 2
+[23/Mar/2019 17:42:14] INFO [books.views:10] ENTER TO Book index
+[23/Mar/2019 17:42:14] INFO [books.views:23] AUTHOR LIST
+[23/Mar/2019 17:42:43] INFO [books.views:10] ENTER TO Book index
+[23/Mar/2019 17:42:43] INFO [books.views:23] AUTHOR LIST
+[23/Mar/2019 17:47:55] INFO [polls.views:29] vote().question_id: 2
+[23/Mar/2019 17:49:10] INFO [polls.views:29] vote().question_id: 3
+[23/Mar/2019 18:53:01] INFO [polls.views:29] vote().question_id: 1
+[23/Mar/2019 18:53:11] INFO [polls.views:29] vote().question_id: 1
+[23/Mar/2019 19:20:22] INFO [polls.views:29] vote().question_id: 3
+[23/Mar/2019 19:20:27] INFO [polls.views:29] vote().question_id: 3
+[23/Mar/2019 20:34:07] INFO [polls.views:29] vote().question_id: 1
+[23/Mar/2019 21:46:20] INFO [polls.views:29] vote().question_id: 2
+[23/Mar/2019 21:47:02] INFO [polls.views:29] vote().question_id: 3
+[23/Mar/2019 21:47:15] INFO [polls.views:29] vote().question_id: 3
+[24/Mar/2019 12:00:09] INFO [books.views:10] ENTER TO Book index
+[24/Mar/2019 12:00:09] INFO [books.views:23] AUTHOR LIST
+[24/Mar/2019 12:09:59] INFO [books.views:10] ENTER TO Book index
+[24/Mar/2019 12:09:59] INFO [books.views:23] AUTHOR LIST
+[24/Mar/2019 13:57:42] INFO [books.views:10] ENTER TO Book index
+[24/Mar/2019 13:57:42] INFO [books.views:23] AUTHOR LIST
+[24/Mar/2019 22:43:55] INFO [books.views:10] ENTER TO Book index
+[24/Mar/2019 22:43:55] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:23:00] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:23:00] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:29:55] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:29:55] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:32:59] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:32:59] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:34:38] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:34:38] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:36:09] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:36:09] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:36:17] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:36:17] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:36:22] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:36:22] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:37:51] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:37:51] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:47:22] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:47:22] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 10:56:34] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 10:56:34] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 12:01:22] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 12:01:22] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 12:01:43] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 12:01:43] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 12:03:55] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 12:03:55] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:01:14] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:01:14] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:13:39] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:13:39] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:27:42] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:27:42] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:31:53] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:31:53] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:41:39] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:41:39] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:43:19] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:43:19] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:44:27] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:44:27] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:53:28] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:53:28] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:55:37] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:55:37] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:56:32] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:56:32] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:57:00] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:57:00] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 14:57:20] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 14:57:20] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:16:02] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:16:02] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:36:17] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:36:17] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:36:55] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:36:55] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:37:30] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:37:30] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:37:37] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:37:37] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:38:13] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:38:13] INFO [books.views:23] AUTHOR LIST
+[25/Mar/2019 16:38:19] INFO [books.views:10] ENTER TO Book index
+[25/Mar/2019 16:38:19] INFO [books.views:23] AUTHOR LIST
+[26/Mar/2019 09:57:43] INFO [books.views:10] ENTER TO Book index
+[26/Mar/2019 09:57:44] INFO [books.views:23] AUTHOR LIST
+[26/Mar/2019 10:21:02] INFO [books.views:10] ENTER TO Book index
+[26/Mar/2019 10:21:02] INFO [books.views:23] AUTHOR LIST
+[26/Mar/2019 10:21:09] INFO [books.views:10] ENTER TO Book index
+[26/Mar/2019 10:21:09] INFO [books.views:23] AUTHOR LIST
+[26/Mar/2019 10:23:10] INFO [books.views:10] ENTER TO Book index
+[26/Mar/2019 10:23:10] INFO [books.views:23] AUTHOR LIST
+[26/Mar/2019 10:25:45] INFO [books.views:10] ENTER TO Book index
+[26/Mar/2019 10:25:45] INFO [books.views:23] AUTHOR LIST

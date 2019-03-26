@@ -1,0 +1,108 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>{% block title %}Jinjulee's Page{% endblock title %}</title>
+  
+  <!-- Bootstrap core CSS -->
+  <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="{% static 'css/scrolling-nav.css' %}" rel="stylesheet">
+  {% comment %} app별 추가 css/js가 있을 경우 사용한다. {% endcomment %}
+  {% block header %}{% endblock header %}
+</head>
+
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="/">Jinjulee's Web</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/admin/">admin</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/books/">Books</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/polls/">Polls</a>
+          </li>
+          {% block sidebar %}
+          {% endblock sidebar %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="bg-primary text-white">
+    <div class="container text-center">
+      {% block top %}  
+      {% comment %} 
+      <h1>Books Management System</h1>
+      <p class="lead">A Book List</p> 
+      {% endcomment %}
+      {% endblock top %}
+    </div>
+  </header>
+  
+
+  <section id="books">    
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+        {% block content %}
+        {% comment %} 
+        <h2>About this page</h2>
+        <p class="lead">if is there any book you want to recommand you can freely add</p>
+        <ul>
+            {% for modelname in model_list %}
+                {% with "books:"|add:modelname|lower|add:"_list" as urlvar %}
+                    <li><a href="{% url urlvar %}">{{ modelname }}</li>
+                {% endwith %}
+            {% endfor %}
+        </ul> 
+        {% endcomment %}
+        {% endblock %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  
+    {% block reply %}        
+    {% endblock %}
+
+
+  <!-- Footer -->
+  <footer class="py-5 bg-light">
+    <div class="container">
+      <p class="m-0 text-center text-dark">Copyright &copy; jinjuleekr 2019</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static 'vendor/jquery/jquery.min.js' %}"></script>
+  <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="{% static 'vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+
+</body>
+
+</html>
